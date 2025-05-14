@@ -1,21 +1,65 @@
-###HULK DDoS Attack
-##Overview
-What Is A DDoS Attack?
-A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources. DDoS attacks target a wide range of important resources, from banks to news websites, and present a significant challenge in ensuring that critical information remains accessible online.
-###Disclaimer:### This tool is only for educational purposes. It should not be used for illegal activities or to harm others. Misuse of this tool can have serious legal consequences.
+# HULK - HTTP Unbearable Load King (DDoS Script)
 
-##Requirements
-Python 2.x or later
+A Python script designed for educational purposes to demonstrate and understand certain types of Denial of Service (DDoS) attacks, specifically those targeting web servers with a high volume of unique HTTP GET requests.
 
-##How to Run
-Clone the repository:
-git clone https://github.com/beezanX/Hulk
+## 📜 Overview
 
-##Run the script:
-python hulk.py
+### What Is A DDoS Attack?
 
+A Distributed Denial of Service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service, or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic.
 
-No prior experience is required to understand or run this tool.
+These attacks can target a wide array of important resources, from e-commerce sites and online banking platforms to news websites, presenting a significant challenge in maintaining the availability and accessibility of critical online services.
 
-###More Details
-For further information or inquiries, you can contact me via my GitHub profile.
+## 🚨 Disclaimer
+
+**⚠️ This tool is provided for educational and research purposes ONLY.**
+
+*   **DO NOT** use this tool for any illegal activities or to cause harm to any system or network you do not have explicit, prior, written permission to test.
+*   Misuse of this tool can lead to severe legal consequences.
+*   The author(s) of this tool are not responsible for any misuse or damage caused by this program. **Use at your own risk.**
+
+## ⚙️ Requirements
+
+*   Python 2.x or Python 3.x (Python 3.x is recommended as Python 2.x is end-of-life)
+*   `git` (for cloning the repository)
+
+## 🚀 How to Run
+
+1.  **Clone the repository:**
+    Open your terminal or command prompt and run:
+    ```bash
+    git clone https://github.com/beezanX/Hulk
+    ```
+
+2.  **Navigate to the project directory:**
+    ```bash
+    cd Hulk
+    ```
+
+3.  **Run the script:**
+    Execute the script using Python:
+    ```bash
+    python hulk.py <target_url>
+    ```
+    For example:
+    ```bash
+    python hulk.py http://example.com
+    ```
+    **Note:** Replace `http://example.com` with the URL of the target you have **explicit permission** to test against. Some versions of HULK might require configuring the target within the script itself if command-line arguments are not supported by your specific version.
+
+The script is straightforward to run once Python is installed on your system.
+
+## ℹ️ More Details
+
+For further information, to report issues, or to contribute, please refer to this GitHub repository or contact the maintainer via their GitHub profile.
+
+*   **Project Repository:** [https://github.com/beezanX/Hulk](https://github.com/beezanX/Hulk)
+*   **Maintainer:** [beezanX](https://github.com/beezanX)
+
+---
+
+Consider adding a `LICENSE` file to your repository (e.g., MIT License, Apache 2.0) and then you can add a section like:
+
+## 📄 License
+
+This project is licensed under the [NAME OF LICENSE] - see the `LICENSE` file for details.
