@@ -1,6 +1,8 @@
 # HULK - HTTP Unbearable Load King (DDoS Script)
 
-A Python script designed for educational purposes to demonstrate and understand certain types of Denial of Service (DDoS) attacks, specifically those targeting web servers with a high volume of unique HTTP GET requests.
+A Python script designed for educational purposes to demonstrate and understand certain types of Denial of Service (DDoS) attacks, specifically those targeting web servers with a high volume of unique HTTP requests.
+![image](https://github.com/user-attachments/assets/94eedd89-ba93-44c5-bf5e-537e41682d04)
+
 
 ## 📜 Overview
 
