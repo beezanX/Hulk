@@ -70,6 +70,6 @@ For further information, to report issues, or to contribute, please refer to thi
 
 Consider adding a `LICENSE` file to your repository (e.g., MIT License, Apache 2.0) and then you can add a section like:
 
-## 📄 License
-
-This project is licensed under the [NAME OF LICENSE] - see the `LICENSE` file for details.
+## 📄 License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code, provided you include the original copyright and license notice.
