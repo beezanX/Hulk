@@ -18,6 +18,16 @@ These attacks can target a wide array of important resources, from e-commerce si
 *   Misuse of this tool can lead to severe legal consequences.
 *   The author(s) of this tool are not responsible for any misuse or damage caused by this program. **Use at your own risk.**
 
+## 🎓 Used in Research
+
+This tool ("Hulk") was utilized in the following academic research for evaluating DDoS detection and prevention mechanisms:
+
+*   **Title:** Detecting and Preventing Distributed Denial of Services (DDoS) Attacks using Machine Learning and Software Defined Networking
+*   **Publication:** 2020 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)
+*   **Abstract/Link:** [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9177002)
+
+The paper mentions using HULK (HTTP Unbearable Load King) as a DDoS tool for evaluating their proposed framework.
+
 ## ⚙️ Requirements
 
 *   Python 2.x or Python 3.x (Python 3.x is recommended as Python 2.x is end-of-life)
